@@ -1,2 +1,2 @@
 # Curso-Git
-Curso de Git e Github - 1h
+Repositório criado para poder ser utilizado no curso de git
